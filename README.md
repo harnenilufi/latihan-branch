@@ -1,2 +1,2 @@
 # latihan-branch  
-Perubahan pada branch lain
+ini adalah repository untuk latihan membuat branch baru
